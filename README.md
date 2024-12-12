@@ -2,6 +2,8 @@
 
 Some of the links are direct downloads. Right-click the link and select "Save to" in the menu (especially when there's a "rename to" message because many models are generically named like `pytorch_model.safetensors` or `model.safetensors`).
 
+Credits: https://civitai.com/articles/9457/bad-ass-comfyui-resource-list
+
 ## FLUX (Dev / Schnell / FP8 / GGUF)
 **Save to Folder:** `ComfyUI\models\diffusion_models\flux`
 
